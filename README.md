@@ -15,7 +15,7 @@
  <div class="overline">An Andrew Tylka Project</div>
  <h1>Tylka Genealogical Register <em>A log of the Family, Its Origins, and Its Remembrance</em></h1>
  <p class="motto">“That the names of those who came before us shall not be lost.”</p>
- <div class="archive-meta"><span>Poland &amp; America</span><span>Family manuscripts</span><span>Research</span></div>
+ <div class="archive-meta"><span>Poland &amp; America </span><span> Family manuscripts </span><span>Research</span></div>
 </header>
 <nav aria-label="Manuscript contents"><a href="#gallery">Records &amp; Photograph Gallery</a><a href="#lineage">The Lineage</a><a href="#chronicle">Chronicle of Years</a><a href="#places">Places &amp; Migration</a><a href="#register">Register of Evidence</a><a href="#questions">Matters Unresolved</a></nav>
 <section class="intro">
